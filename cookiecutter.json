@@ -1,7 +1,7 @@
 {
-  "full_name": "Pradeep Bashyal",
-  "email": "pbashyal@nmdp.org",
-  "github_username": "pbashyal-nmdp",
+  "full_name": "Michael Halagan",
+  "email": "mhalagan@nmdp.org",
+  "github_username": "mhalagan-nmdp",
   "project_name": "Python Project Example",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
   "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
